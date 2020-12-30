@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTINF:-1,########## Latino ##########
-http://mytv.fun:8080/martint/7piz9t0ez/6765
+#EXTINF:-1,ESPN Deportes HD US
+http://mytv.fun:8080/doinalucru/lmaayndkcp/677142
+#EXTINF:-1,bein Sports Espagnol HD VIP US
+http://mytv.fun:8080/doinalucru/lmaayndkcp/677144
+#EXTINF:-1,TUDN HD VIP US
+http://mytv.fun:8080/doinalucru/lmaayndkcp/684705
+#EXTINF:-1,Fox Deportes HD US
+http://mytv.fun:8080/doinalucru/lmaayndkcp/494543
 #EXTINF:-1,A&E LAM
 http://mytv.fun:8080/martint/7piz9t0ez/6673
 #EXTINF:-1,AMC LAM
