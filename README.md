@@ -1,6 +1,42 @@
 #EXTM3U
 #EXTINF:0, TOTAL PLAY
 
+#EXTINF:-1,AFIZZIONADOS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+#EXTINF:-1,TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+#EXTINF:-1,TDN DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTINF:-1,BEIN ESPANIOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1,UFC ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+
+
+#EXTINF:-1,UNIVISION USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF:-1,ESTRELLATV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+#EXTINF:-1,Canal De Las Estrellas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+#EXTINF:-1,TELEMUNDO44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+#EXTINF:-1,TELEMUNDOLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+#EXTINF:-1,TELEMUNDO48
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+#EXTINF:-1,TELEMUNDONEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+#EXTINF:-1,UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+#EXTINF:-1,UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF:-1,UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+#EXTINF:-1,NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+#EXTINF:-1,GALAVISION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/C1GUdsi.png",[$]FOX SPORTS HD 
 http://45.182.127.235:8000/play/a0aq
 #EXTINF:-1 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/mi2ki7V.png",[$]FOX SPORTS 2HD 
