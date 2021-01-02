@@ -11,6 +11,102 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 #EXTINF:-1,UFC ESP
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+#EXTINF:0,Azteca Uno FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,ADN40 FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Las Estrellas FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1768&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Las Estrellas -2 FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2233&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,ForoTV FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Imagen Tv FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Canal 5 FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1769&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Canal 6 FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2521&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Azteca 7 FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=317&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Nueve FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Once FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1942&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TVC FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=3322&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Canal 4 FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Milenio FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,El Financiero Bloomberg FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1649&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Warner FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=205&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Universal FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,FX FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Hola! Tv FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TruTV FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=215&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Az Clic FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Az Corazon FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=453&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,A3 Series FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=3112&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Studio Universal FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1982&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Sports FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=171&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Sports 2 FHD
+#EXTGRP:FHD
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=173&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Canal TP
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Familia TP
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1977&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Canal TP FHD
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2361&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 
 
 #EXTINF:-1,UNIVISION USA HD
