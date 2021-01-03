@@ -1,16 +1,26 @@
 #EXTM3U
 #EXTINF:0, TOTAL PLAY
 
-#EXTINF:-1, BOCA VS RIVER
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
-#EXTINF:-1,BOCA VS RIVER
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
-​#EXTINF:-1, BOCA VS RIVER
-http://usuarios.club/stream/premium/soyluishnW/512.m3u8
-#EXTINF:-1, BOCA VS RIVER
-http://usuarios.club/stream/premium/soyluishnW/658.m3u8
-#EXTINF:-1, BOCA VS RIVER
-http://usuarios.club/stream/premium/soyluishnW/509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga
+acestream://190049b718cfeccf0814cbf5d7d36676fe59da62
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 la liga
+acestream://cd5208226b4b8e9d779423d83cadcc84265d2543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 la liga
+acestream://50d716e7ffe0d725331ecc684be0fad2eca8c6ef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 la premier
+acestream://9eca78ec423bf5342be1b77b2d05b7ae57dfe31c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
+acestream://67c28e28c302cdc797907f5789b9b9712212669c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
+acestream://d03d8e0f70c7e760e6b0ae34b2b9db9c72234a30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
+acestream://cc4116f8a7fc8870f2841c8830748d1e89dad320
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
+acestream://e4f6cb6a8ef90c504152430e69f3cd411a5fd871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 9 sin evento
+acestream://c6d775e91b3582ab0196d4d338b5d9fc79772c6e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 10 sin evento
+acestream://213659c91238347de1f0f6e1439e245c7c7e2c61
 #EXTINF:-1,AFIZZIONADOS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
 #EXTINF:-1,TVC DEPORTES
