@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:0, TOTAL PLAY
 
+#EXTINF:-1, BOCA VS RIVER
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
+#EXTINF:-1,BOCA VS RIVER
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
+​#EXTINF:-1, BOCA VS RIVER
+http://usuarios.club/stream/premium/soyluishnW/512.m3u8
+#EXTINF:-1, BOCA VS RIVER
+http://usuarios.club/stream/premium/soyluishnW/658.m3u8
+#EXTINF:-1, BOCA VS RIVER
+http://usuarios.club/stream/premium/soyluishnW/509.m3u8
 #EXTINF:-1,AFIZZIONADOS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
 #EXTINF:-1,TVC DEPORTES
