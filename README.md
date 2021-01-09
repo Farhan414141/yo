@@ -5,7 +5,7 @@
 http://daleplay.biz:8080/live/promo23/WPLHF3WE3/59904.m3u8
 
 #EXTINF:-1,ATLAS VS MONTERREY
-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 
 #EXTINF:-1, TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=02&format=HLS&f=.m3u8
